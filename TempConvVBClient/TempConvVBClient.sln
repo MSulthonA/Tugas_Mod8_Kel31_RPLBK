@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TempConvVBClient", "TempConvVBClient\TempConvVBClient.vbproj", "{07FD8A0C-70BB-4317-9037-724F83A90557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FD8A0C-70BB-4317-9037-724F83A90557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FD8A0C-70BB-4317-9037-724F83A90557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FD8A0C-70BB-4317-9037-724F83A90557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FD8A0C-70BB-4317-9037-724F83A90557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2435324F-3E15-42D8-85EC-867C53B18638}
+	EndGlobalSection
+EndGlobal
